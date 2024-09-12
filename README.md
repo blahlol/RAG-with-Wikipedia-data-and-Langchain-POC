@@ -15,7 +15,7 @@ requirements.txt: This file lists all the dependent libraries that can be instal
 You will need to have ollama installed on your server to be able to run this code.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
 
 ## Acknowledgments
 This project utilizes the Ollama library for making use of the llama 3 model offered by Meta.
